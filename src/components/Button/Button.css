@@ -1,0 +1,16 @@
+.Button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 12px 20px;
+    transition: background-color .4s;
+}
+
+.Button--primary {
+    background-color: #2F4F7F;
+    color: #FFF;
+}
+
+.Button--primary:hover {
+    background-color: #3498DB;
+}
